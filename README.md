@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Incident: Tor Browser Usage](https://github.com/iojini/threat-hunting-scenario-tor)**
+- **[Threat Hunting Incident: Tor Browser Usage](https://github.com/iojini/unauthorized-tor-usage)**
 - **[Threat Hunting Incident: Accidental Internet Asset Exposure](https://github.com/iojini/accidental-asset-exposure-threat-hunt)**
 
 

@@ -12,6 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Incident: Tor Browser Usage](https://github.com/iojini/unauthorized-tor-usage)**
 - **[Threat Hunting Incident: Accidental Internet Asset Exposure](https://github.com/iojini/accidental-asset-exposure-threat-hunt)**
+- **[Threat Hunting Incident: Network Degradation and Unauthorized Port Scanning](https://github.com/iojini/sudden-network-slowdowns)**
 - **[Threat Hunting Incident: Fabricated Support Incident and Data Exfiltration](https://github.com/iojini/support-incident-data-exfiltration)**
 
 

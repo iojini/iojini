@@ -15,9 +15,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🎯 Adversarial Simulations
 
-- **[Threat Hunting Incident: Unauthorized Tor Browser Usage](https://github.com/iojini/unauthorized-tor-usage)**
-- **[Threat Hunting Incident: Accidental Internet Asset Exposure](https://github.com/iojini/accidental-asset-exposure-threat-hunt)**
-- **[Threat Hunting Incident: Network Degradation and Unauthorized Port Scanning](https://github.com/iojini/sudden-network-slowdowns)**
-- **[Threat Hunting Incident: Insider Threat and Data Exfiltration](https://github.com/iojini/insider-threat-data-exfiltration)**
+- **[Adversarial Simulation: Unauthorized Tor Browser Usage](https://github.com/iojini/unauthorized-tor-usage)**
+- **[Adversarial Simulation: Accidental Internet Asset Exposure](https://github.com/iojini/accidental-asset-exposure-threat-hunt)**
+- **[Adversarial Simulation: Network Degradation and Unauthorized Port Scanning](https://github.com/iojini/sudden-network-slowdowns)**
+- **[Adversarial Simulation: Insider Threat and Data Exfiltration](https://github.com/iojini/insider-threat-data-exfiltration)**
 
 <hr/>

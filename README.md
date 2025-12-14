@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Incident: Fabricated Support Incident and Data Exfiltration](https://github.com/iojini/support-incident-data-exfiltration)**
 - **[Threat Hunting Incident: Network Degradation and Unauthorized Port Scanning](https://github.com/iojini/sudden-network-slowdowns)**
 - **[Threat Hunting Incident: Insider Threat and Data Exfiltration](https://github.com/iojini/insider-threat-data-exfiltration)**
-- **[Incident Response: Brute Force Attack Detection and Response](https://github.com/iojini/insider-threat-data-exfiltration)**
+- **[Incident Response: Brute Force Attack Detection and Response](https://github.com/iojini/brute-force-attack-detection-and-response)**
 
 
 

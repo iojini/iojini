@@ -13,7 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Incident: Fabricated Support Incident and Data Exfiltration](https://github.com/iojini/support-incident-data-exfiltration)**
 - **[Incident Response: Brute Force Attack Detection and Response](https://github.com/iojini/brute-force-attack-detection-and-response)**
 
-## 🎯 Custom Adversarial Simulations & Threat Hunting Workflows
+## 🎯 Adversarial Behavioral Development & Threat Hunting
 
 - **[Adversarial Simulation: Unauthorized Tor Browser Usage](https://github.com/iojini/unauthorized-tor-usage)**
 - **[Adversarial Simulation: Accidental Internet Asset Exposure](https://github.com/iojini/accidental-asset-exposure-threat-hunt)**

@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Incident: Fabricated Support Incident and Data Exfiltration](https://github.com/iojini/support-incident-data-exfiltration)**
+- **[Threat Hunting Incident: Credential Theft and Data Exfiltration](https://github.com/iojini/apt-logistics-credential-theft-exfiltration)**
 - **[Incident Response: Brute Force Attack Detection and Response](https://github.com/iojini/brute-force-attack-detection-and-response)**
 
 ## 🎯 Adversarial Behavioral Development & Threat Hunting

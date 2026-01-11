@@ -14,6 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Incident: Credential Theft and Data Exfiltration](https://github.com/iojini/apt-logistics-credential-theft-exfiltration)**
 - **[Threat Hunting Incident: File Server Breach and Multi-Stage Exfiltration](https://github.com/iojini/apt-logistics-lateral-movement-exfiltration)**
 - **[Threat Hunting Incident: Administrative PC Breach and Advanced Credential Harvesting](https://github.com/iojini/apt-logistics-executive-compromise-c2)**
+- **[Threat Hunting Incident: Backup Infrastructure Destruction and Ransomware Deployment](https://github.com/iojini/apt-logistics-backup-destruction-ransomware)**
 - **[Incident Response: Brute Force Attack Detection and Response](https://github.com/iojini/brute-force-attack-detection-and-response)**
 
 ## 🎯 Adversarial Behavioral Development & Threat Hunting

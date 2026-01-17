@@ -24,4 +24,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Behavioral Threat: Network Degradation and Unauthorized Port Scanning](https://github.com/iojini/sudden-network-slowdowns)**
 - **[Behavioral Threat: Insider Threat and Data Exfiltration](https://github.com/iojini/insider-threat-data-exfiltration)**
 
+## 🔍 Detection Engineering
+
+- **[Sigma Detection Pipeline: Python-based detection-as-code framework with automated testing and SIEM conversion](https://github.com/iojini/sigma-detection-pipeline)**
+  
 <hr/>

@@ -26,6 +26,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🔍 Detection Engineering
 
-- **[Sigma Detection Pipeline: Python-based detection-as-code framework with automated testing and SIEM conversion](https://github.com/iojini/sigma-detection-pipeline)**
+- **[Sigma Detection Pipeline: Detection-as-Code Framework](https://github.com/iojini/sigma-detection-pipeline)**
   
 <hr/>

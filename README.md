@@ -27,5 +27,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🔍 Detection Engineering
 
 - **[Sigma Detection Pipeline: Detection-as-Code Framework](https://github.com/iojini/sigma-detection-pipeline)**
+- **[SecDetect AI: Full-Stack Detection Platform with Slack Integration](https://github.com/iojini/secdetect-ai)**
   
 <hr/>

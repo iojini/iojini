@@ -8,7 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[End-to-End Vulnerability Management Program Implementation](https://github.com/iojini/vulnerability-management)**
 - **[25+ Programmatic Vulnerability Remediations (PowerShell)](https://github.com/iojini/remediation-implementations)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting & Security Operations
 
 - **[Threat Hunting Incident: Fabricated Support Incident and Data Exfiltration](https://github.com/iojini/support-incident-data-exfiltration)**
 - **[Threat Hunting Incident: Credential Theft and Data Exfiltration](https://github.com/iojini/apt-logistics-credential-theft-exfiltration)**

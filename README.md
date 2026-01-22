@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Threat Detection & Vulnerability Management
 
-- **[End-to-End Vulnerability Management Program Implementation](https://github.com/iojini/vulnerability-management)**
+- **[Threat Detection: Engineering Compensating Controls for Unpatched Vulnerabilities](https://github.com/iojini/vulnerability-management)**
 - **[25+ Programmatic Vulnerability Remediations (PowerShell)](https://github.com/iojini/remediation-implementations)**
 
 ## 🚨 Threat Hunting & Security Operations

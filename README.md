@@ -8,6 +8,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[End-to-End Vulnerability Management Program Implementation](https://github.com/iojini/vulnerability-management)**
 - **[25+ Programmatic Vulnerability Remediations (PowerShell)](https://github.com/iojini/remediation-implementations)**
 
+## 🔐 Infrastructure Security & IAM
+
+- **[ZeroTrust Security Stack: Enterprise IAM, Secrets Management & Security Monitoring](https://github.com/iojini/zerotrust-security-stack)**
+
 ## 🚨 Threat Hunting & Security Operations
 
 - **[Threat Hunting Incident: Fabricated Support Incident and Data Exfiltration](https://github.com/iojini/support-incident-data-exfiltration)**

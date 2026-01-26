@@ -3,7 +3,7 @@
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From threat detection to incident response, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
-## ⚠️ Threat Detection & Vulnerability Management
+## ⚠️ Vulnerability Management
 
 - **[Threat Detection: Engineering Compensating Controls for Unpatched Vulnerabilities](https://github.com/iojini/vulnerability-management)**
 - **[25+ Programmatic Vulnerability Remediations (PowerShell)](https://github.com/iojini/remediation-implementations)**

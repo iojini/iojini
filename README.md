@@ -12,6 +12,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[ZeroTrust Security Stack: Enterprise IAM, Secrets Management & Security Monitoring](https://github.com/iojini/zerotrust-security-stack)**
 
+## 🤖 Security Automation & SOAR
+
+- **[SOAR Playbook Suite: Automated Incident Response with Threat Intelligence Integration](https://github.com/iojini/soar-playbook-suite)**
+
 ## 🚨 Threat Hunting & Security Operations
 
 - **[Threat Hunting Incident: Fabricated Support Incident and Data Exfiltration](https://github.com/iojini/support-incident-data-exfiltration)**

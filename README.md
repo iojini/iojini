@@ -15,6 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🤖 Security Automation & SOAR
 
 - **[SOAR Playbook Suite: Automated Incident Response with Threat Intelligence Integration](https://github.com/iojini/soar-playbook-suite)**
+- **[SOAREngine: Full-Stack SOAR Platform with MITRE ATT&CK Dashboard](https://github.com/iojini/SOAREngine)**
 
 ## 🚨 Threat Hunting & Security Operations
 
